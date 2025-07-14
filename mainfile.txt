@@ -1,1 +1,3 @@
+System.out.println("This is the merged and updated branch);
+
 System.out,println("Hello from my feature branch!");
