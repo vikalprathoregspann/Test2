@@ -1,3 +1,8 @@
+
+List<String> cats = new ArrayList<>();
+cats.add("amit"); cats.add("Bhaskar");
+cats.sort((c1, c2) -> -c1.compareTo(c2));
+
 System.out.println("This is the merged and updated branch);
 
 System.out,println("Hello from my feature branch!");
